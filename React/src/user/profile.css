@@ -1,0 +1,53 @@
+h3
+{
+    text-align: center;
+}
+.profile
+{
+    padding-top: 10px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 10px 20px 0 rgba(0,0,0,0.19);
+    /* border-radius: 50%; */
+}
+.card
+{
+    background-color: rgb(19, 18, 18);
+    color: rgb(236, 234, 231);
+    padding-bottom: 130px;
+    padding-left: 0px;
+}
+.nav li a{
+    color :black;
+    font-size: 20px;
+}
+
+.nav li
+{
+    margin-left: 30px;
+}
+.pic
+{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.detail
+{
+    padding-left: 70px;
+    font-size: 20px;
+    background-color: rgb(224, 245, 242);
+}
+.list-group i{
+    padding-right: 20px;
+}
+.title
+{
+    margin-top: 30px;
+    background-color: rgb(198, 197, 211);
+}
+.conta
+{
+    background-color: rgb(233, 243, 242);
+}
+.main
+{
+   background-image: url('../image/bg-profile.jpg');
+}

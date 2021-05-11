@@ -1,0 +1,23 @@
+.navigate
+{
+    margin-left: 260px;
+}
+.page-item
+{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 5px 10px 0 rgba(0,0,0,0.19);
+    border-radius: 50%;
+}
+.cont
+{
+    box-shadow: 0px 0px 10px 2px rgb(24, 24, 23);
+    border-radius: 5px;
+    margin-top: 150px;
+    perspective: 1000px;
+    background-color: rgb(231, 234, 235);
+}
+.btn
+{
+    margin-bottom: 10px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    background-color: rgb(217, 238, 169);
+}
